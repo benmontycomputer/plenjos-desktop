@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=desktop
+Exec=desktop
+Icon=com.plenjos.Desktop
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="desktop">
+	<schema id="com.plenjos.Desktop" path="/com/plenjos/Desktop/">
+	</schema>
+</schemalist>
